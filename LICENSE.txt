@@ -1,6 +1,8 @@
 COPYRIGHT (c) 2018 ICTman1076 and Sorcerertech. USAGE MUST ABIDE BY THE RULES
 BELOW
 
+License summary (NOT A SUBSTITUTE):
+https://github.com/OfficialSorcerertech/sorcerertech-open-licenses/tree/master/open-web
 
 This software and associated documentation files (the "Software") is licensed
 under the Sorcerertech Open Web License, found below.
